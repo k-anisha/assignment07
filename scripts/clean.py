@@ -7,14 +7,6 @@ VALID_EVENT_TYPES = {
     "purchase",
     "scroll",
     "view",
-    "NaN",
-    "PURCHASE!",
-    "test",
-    "VIEW",
-    "klick",
-    "log_in",
-    "buy",
-    "unknown",
 }
 
 input_path = Path("data/raw/events.csv")
